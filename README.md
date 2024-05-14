@@ -28,3 +28,6 @@ Enter initials for game you want to view
 The server in main.py will show data in a JSON format.
 
     
+https://lucid.app/lucidchart/02c0fdcb-b9a3-44bd-ad59-866395548f14/edit?view_items=yYXBbz0VfpBv%2CbYXBEOZBRXUR%2CKZXBSrn1G65k%2CNTWBdttO7Cf.%2CNTWBKGTWqLqr%2CyZWBCiN-wVQA%2CNTWBFTp7lgg9%2CBZXBgtiTm7IE%2CRYWBIvROz9Zp%2CnYXB_nDKjiu8%2C30WBKzHy94U~%2C-0WBPw21ubKr%2CUYWB7SO4EKGq%2CaZWBCqUek~6z&invitationId=inv_6c0de13a-1cf3-4251-abb9-89811ba022c0
+
+![B88E43CD-6353-48E0-8519-2EE0725BE005_1_201_a](https://github.com/JessicaE2344/CS361/assets/129296631/a5f0f19b-5b5e-4793-9373-00cbb2434259)
